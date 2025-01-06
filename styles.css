@@ -23,6 +23,19 @@ section {
     margin-bottom: 30px;
 }
 
+.projects .project {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.projects h3 {
+    color: #2c3e50;
+    margin-top: 0;
+}
+
 footer {
     margin-top: 50px;
     padding-top: 20px;
